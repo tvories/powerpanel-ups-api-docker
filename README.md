@@ -1,2 +1,2 @@
-# powerpanel_ups_api
+# powerpanel-ups-api-docker
 CyberPower PowerPanel simple API
